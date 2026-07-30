@@ -1,9 +1,7 @@
 # Bili Yuniarto Portfolio
 
-Personal portfolio website for Bili Yuniarto, a Content & Creative Producer based in Jakarta.
-
-## Live Site
-https://biliyuniarto.github.io/
+Personal portfolio website of Bili Yuniarto,
+a Content & Creative Producer based in Jakarta.
 
 ## Focus Areas
 - Video Production
@@ -11,13 +9,8 @@ https://biliyuniarto.github.io/
 - Digital Campaigns
 - AI-Assisted Workflows
 
-## Built With
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
+## Live Portfolio
+biliyuniarto.github.io
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/bili-yuniarto/
-- Behance: https://www.behance.net/biliyuniarto
-- Email: biliyuniarto1@gmail.com
+## Built With
+HTML, CSS, JavaScript, and GitHub Pages
